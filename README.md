@@ -5,4 +5,4 @@
 </div>
 
 - 👋 Hi, I’m [**@Shikimoriix**](https://linktr.ee/shikimoriix)
-- 🤖 Automated by [**@ikx7a**](https://github.com/ikx7a)
+- 🤖 Automated by [**@Shineii86**](https://github.com/Shineii86)
